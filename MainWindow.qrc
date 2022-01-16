@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/ahahahh.mp3</file>
+        <file>res/nedry.gif</file>
+    </qresource>
+</RCC>
